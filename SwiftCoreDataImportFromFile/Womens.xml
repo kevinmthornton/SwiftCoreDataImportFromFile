@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <array> 
+            <string>Womens Flat 1</string> 
+            <string>Womens Flat</string> 
+            <string>99.99</string> 
+        </array> 
+        <array> 
+            <string>Womens Flat 2</string> 
+            <string>Womens Flat</string> 
+            <string>99.99</string> 
+        </array> 
+        <array> 
+            <string>Womens Flat 3</string> 
+            <string>Womens Flat</string> 
+            <string>99.99</string> 
+        </array> 
+        <array> 
+            <string>Womens Skipper 1</string> 
+            <string>Womens Skipper</string> 
+            <string>199.99</string> 
+        </array> 
+        <array> 
+            <string>Womens Skipper 2</string> 
+            <string>Womens Skipper</string> 
+            <string>299.99</string> 
+        </array> 
+        <array> 
+            <string>Womens Skipper 3</string> 
+            <string>Womens Skipper</string> 
+            <string>399.99</string> 
+        </array> 
+        <array> 
+            <string>Womens Sandal 1</string> 
+            <string>Womens Sandal</string> 
+            <string>19.99</string> 
+        </array> 
+    </array>
+</plist>

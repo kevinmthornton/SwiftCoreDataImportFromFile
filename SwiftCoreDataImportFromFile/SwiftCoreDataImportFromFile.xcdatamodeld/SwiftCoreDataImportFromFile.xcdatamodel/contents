@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="13F34" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Gender" representedClassName="SwiftCoreDataImportFromFile.Gender" syncable="YES">
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="shoes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Shoe" inverseName="gender" inverseEntity="Shoe" syncable="YES"/>
+    </entity>
+    <entity name="Shoe" representedClassName="SwiftCoreDataImportFromFile.Shoe" syncable="YES">
+        <attribute name="shoeDesc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="shoeName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="shoePrice" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="shoeType" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="gender" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Gender" inverseName="shoes" inverseEntity="Gender" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Gender" positionX="90" positionY="-1719" width="128" height="73"/>
+        <element name="Shoe" positionX="261" positionY="-1711" width="128" height="118"/>
+    </elements>
+</model>

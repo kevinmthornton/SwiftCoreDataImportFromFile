@@ -1,0 +1,12 @@
+{
+	"shoeList":
+	[
+     {"shoeName":"Mens Flat 1","shoeType":"Mens Flat","price":"99.99"},
+     {"shoeName":"Mens Flat 2","shoeType":"Mens Flat","price":"99.99"},
+     {"shoeName":"Mens Flat 3","shoeType":"Mens Flat","price":"99.99"},
+     {"shoeName":"Mens Skipper 1","shoeType":"Mens Skipper","price":"99.99"},
+     {"shoeName":"Mens Skipper 2","shoeType":"Mens Skipper","price":"99.99"},
+     {"shoeName":"Mens Skipper 3","shoeType":"Mens Skipper","price":"99.99"},
+     {"shoeName":"Mens Sandal 1","shoeType":"Mens Sandal","price":"99.99"}
+     ]
+}

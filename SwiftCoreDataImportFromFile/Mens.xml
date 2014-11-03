@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <array> 
+            <string>Mens Runner 1</string> 
+            <string>Mens Runner</string> 
+            <string>99.99</string> 
+        </array> 
+        <array> 
+            <string>Mens Runner 2</string> 
+            <string>Mens Runner</string> 
+            <string>99.99</string> 
+        </array> 
+        <array> 
+            <string>Mens Runner 3</string> 
+            <string>Mens Runner</string> 
+            <string>99.99</string> 
+        </array> 
+        <array> 
+            <string>Mens Boot 1</string> 
+            <string>Mens Boot</string> 
+            <string>199.99</string> 
+        </array> 
+        <array> 
+            <string>Mens Boot 2</string> 
+            <string>Mens Boot</string> 
+            <string>299.99</string> 
+        </array> 
+        <array> 
+            <string>Mens Boot 3</string> 
+            <string>Mens Boot</string> 
+            <string>399.99</string> 
+        </array> 
+        <array> 
+            <string>Mens Sandal 1</string> 
+            <string>Mens Sandal</string> 
+            <string>19.99</string> 
+        </array> 
+    </array>
+</plist>

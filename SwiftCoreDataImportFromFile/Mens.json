@@ -1,0 +1,12 @@
+{
+	"shoeList":
+	[
+     {"shoeName":"Mens Runner 1","shoeType":"Mens Runner","price":"99.99"},
+     {"shoeName":"Mens Runner 2","shoeType":"Mens Runner","price":"99.99"},
+     {"shoeName":"Mens Runner 3","shoeType":"Mens Runner","price":"99.99"},
+     {"shoeName":"Mens Boot 1","shoeType":"Mens Boot","price":"199.99"},
+     {"shoeName":"Mens Boot 2","shoeType":"Mens Boot","price":"299.99"},
+     {"shoeName":"Mens Boot 3","shoeType":"Mens Boot","price":"399.99"},
+     {"shoeName":"Mens Sandal 1","shoeType":"Mens Sandal","price":"19.99"}
+     ]
+}
